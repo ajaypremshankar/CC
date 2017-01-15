@@ -16,7 +16,7 @@ import java.util.Scanner;
  Example:
  Input:
  2
- abbbccab
+ abccabc
  ab bcc
  narendramodi
  add di
